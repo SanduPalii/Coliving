@@ -1,5 +1,5 @@
 .header-text{
-    position: ;
+    position: absolute;
     width: 784px;
     height: 23px;
     left: 507px;
@@ -11,6 +11,24 @@
     font-size: 24px;
     line-height: 28px;
     
-    color: #794a4a;
+    color: #ffffff;
+
+}
+
+h1{
+    position: absolute;
+    width: 908px;
+    height: 127px;
+    left: 500px;
+    top: 280px;
+
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 70px;
+    text-transform: capitalize;
+
+    color: #ffffff;
 
 }
