@@ -353,6 +353,22 @@ h3{
     color: #201E21;
 }
 
-.facebook{
-    src: url("/images/facebook.png");
+.icons{
+    padding-top: 14px;
+}
+
+.icons a{
+    padding-right: 10px;
+}
+
+.facebook:hover{
+    filter: invert(27%) sepia(51%) saturate(178%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
+.youtube:hover{
+    filter: invert(27%) sepia(51%) saturate(178%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
+.watsapp:hover{
+    filter: invert(27%) sepia(51%) saturate(178%) hue-rotate(346deg) brightness(104%) contrast(97%);
 }
